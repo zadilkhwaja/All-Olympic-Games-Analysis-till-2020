@@ -39,3 +39,6 @@ Number of Competitors:
 ## __Olympic Games Analysis__
 
 The finished dashboard consist of visualizations and filters that gives an easy option for the end users to navigate the summer games through history. Some possibilities are to filter by period using year, nation code to focus on one country or look into either a competitor or specific sports over time.
+
+![0001](https://user-images.githubusercontent.com/46615169/131238817-8b2ccc3a-7a4a-48f5-8cd4-0646d4457b64.jpg)
+
